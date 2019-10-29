@@ -22,6 +22,16 @@ Clone this repo. Hold power and volume to enter fastboot mode on your EON. Then 
 
 <b>NOTE: This will wipe your EON</b>
 
+
+Built-in Restore Tool
+------
+
+You can try the EON Gold's built-in recovery tool:
+Hold up vol + power while the device is off. 
+It should bring up the LeECO recovery tool. Do a System only reset. 
+Reboot your device (down + power).
+NEOS will ask for an install URL, enter https://openpilot.comma.ai
+
 Restoring on OS X
 ------
 
